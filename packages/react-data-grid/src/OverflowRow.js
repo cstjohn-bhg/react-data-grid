@@ -1,6 +1,6 @@
 import React from 'react';
 import focusableComponentWrapper from './focusableComponentWrapper';
-import '../../../themes/react-data-grid-row.css';
+// import '../../../themes/react-data-grid-row.css';
 
 class OverflowRow extends React.Component {
   render() {

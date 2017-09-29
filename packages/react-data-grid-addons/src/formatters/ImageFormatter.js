@@ -1,5 +1,5 @@
 const React = require('react');
-require('../../../../themes/react-data-grid-image.css');
+// require('../../../../themes/react-data-grid-image.css');
 
 let PendingPool = {};
 let ReadyPool = {};

@@ -5,7 +5,7 @@ const Viewport             = require('./Viewport');
 const GridScrollMixin      = require('./GridScrollMixin');
 const DOMMetrics           = require('./DOMMetrics');
 const cellMetaDataShape    = require('./PropTypeShapes/CellMetaDataShape');
-require('../../../themes/react-data-grid-core.css');
+// require('../../../themes/react-data-grid-core.css');
 
 const Grid = React.createClass({
   propTypes: {

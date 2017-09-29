@@ -1,4 +1,4 @@
-import '../../../../themes/react-data-grid-row.css';
+// import '../../../../themes/react-data-grid-row.css';
 import React, { PropTypes } from 'react';
 import { DragSource } from 'react-dnd';
 import { editors } from 'react-data-grid';

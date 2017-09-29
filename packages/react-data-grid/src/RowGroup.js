@@ -2,7 +2,7 @@ import React, {PropTypes, Component} from 'react';
 import utils from './utils';
 const cellMetaDataShape = require('./PropTypeShapes/CellMetaDataShape');
 
-import '../../../themes/react-data-grid-row.css';
+// import '../../../themes/react-data-grid-row.css';
 
 class RowGroup extends Component {
   constructor(props) {
